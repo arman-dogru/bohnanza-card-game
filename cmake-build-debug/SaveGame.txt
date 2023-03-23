@@ -1,0 +1,16 @@
+sa: -1058200128 coins
+-Stink S  
+-Chili C  
+-(there isn't a third chain)
+Hand: S  S  C  C  G  K  K  B  S  
+as: 0 coins
+-Stink S  
+-soy Y  
+-(there isn't a third chain)
+Hand: S  G  C  S  G  S  G  S  G  
+Deck:
+B  R  R  B  C  Y  B  Y  G  G  B  R  Y  Y  K  B  S  G  B  Y  K  S  B  G  S  B  Y  K  C  K  R  C  Y  C  S  S  R  K  Y  R  Y  G  R  C  G  B  B  G  B  K  C  K  Y  S  G  B  S  K  G  B  C  B  G  G  C  C  C  G  B  B  
+Trade Area:
+B  R  G  B  
+Discard Pile:
+C  s  C  G  G  B  C  C  

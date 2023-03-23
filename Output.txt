@@ -1,0 +1,80 @@
+"C:\Users\MONSTER\Desktop\C++ Project\cmake-build-debug\C___Project.exe"
+Do you want to load a saved game? (y/n):n
+ Enter the name of player 1:Arman
+ Enter the name of player 2:Talya
+
+Each player has 5 cards
+Do you want to pause and save the game? (y/n):n
+ Table:Arman: 235891856 coins
+-!the Chain is empty
+-!the Chain is empty
+-(there isn't a third chain)
+
+Talya: 0 coins
+-!the Chain is empty
+-!the Chain is empty
+-(there isn't a third chain)
+
+Trade area:
+Discard Pile:
+Deck: G  G  G  S  K  G  R  C  S  C  C  C  G  G  B  K  B  Y  Y  R  S  Y  C  B  Y  B  B  Y  B  C  S  G  R  S  Y  Y  S  C
+K  B  R  S  G  C  B  G  S  C  G  G  S  B  C  C  C  B  K  C  K  B  G  G  Y  B  R  B  B  G  K  G  K  B  R  B  K  G  C  B
+B  R  G  S  C  G  B  S  Y  G  S  Y  Y  G  S  R
+End of Table
+
+> Player: Arman is chosing...
+Purchase a third chain? (y/n):n
+
+ You drew a card from the deck.
+> Now you're about to play your topmost card: Stink from your hand...
+> You have chained the card: Stink!
+> Your Chains:
+  [0]Stink S
+  [1]!the Chain is empty
+> Now the top card on your hand: Blue
+
+Do you want to play your top card again?(y/n)y
+ > Now you're about to play your topmost card: Blue from your hand...
+> You have chained the card: Blue!
+> Your Chains:
+  [0]Stink S
+  [1]Blue B
+> Now the top card on your hand: Stink
+
+Show your full hand and discard an arbitrary card? (y/n):n
+
+> 3 cards have been placed into the trade area.
+
+
+> Trade area has the following cards: S  G  Y
+> Please enter the character of which card you'd like to chain, to cancel write 'n':S
+ > You have chained the card: Stink
+> Your chains are:
+  '0'Stink S  S
+  '1'Blue B
+
+> Trade area has the following cards: G  Y
+> Please enter the character of which card you'd like to chain, to cancel write 'n':n
+ > Ended chaining.
+
+> The player have finished this turn. 2 Cards were drawn
+
+Table:Arman: 235891856 coins
+-Stink S  S
+-Blue B
+-(there isn't a third chain)
+
+Talya: 0 coins
+-!the Chain is empty
+-!the Chain is empty
+-(there isn't a third chain)
+
+Trade area: G  Y
+Discard Pile:
+Deck: G  G  G  S  K  G  R  C  S  C  C  C  G  G  B  K  B  Y  Y  R  S  Y  C  B  Y  B  B  Y  B  C  S  G  R  S  Y  Y  S  C
+K  B  R  S  G  C  B  G  S  C  G  G  S  B  C  C  C  B  K  C  K  B  G  G  Y  B  R  B  B  G  K  G  K  B  R  B  K  G  C  B
+B  R  G  S  C  G  B  S  Y  G
+End of Table
+
+> Player: Talya is chosing...
+Purchase a third chain? (y/n):
